@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "01c64d30-42e9-4603-8939-eb006c7c8573"
+            "database_name": "kongshuai",
+            "database_id": "6d6efa75-b7d5-4338-8b21-7f4eb6768558"
         }
     ],
     "vars": {
